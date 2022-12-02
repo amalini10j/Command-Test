@@ -3,4 +3,5 @@ New line 2
 New line added in new branch
 Another line from new branch
 Check updating existing PR
-
+Another chance 
+Commiiting from VS Code
